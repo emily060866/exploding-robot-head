@@ -40,6 +40,7 @@
   position: absolute;
   top: 0;
   right: 12%;
+  bottom: 0;
 }
 
 .robot:hover > .robot-head-left {
